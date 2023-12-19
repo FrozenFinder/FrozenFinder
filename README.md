@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrozenFinder
 - 👀 I’m interested in Minecraft, D&D and other games.
-- 🌱 I’m currently learning JavaScript and Gradle
+- 🌱 I’m currently learning Java and Gradle
 - 💞️ I’m looking to collaborate on Minecraft Mods
 - 📫 You can reach me on Discord, my username there is also FrozenFinder
 
